@@ -4,7 +4,7 @@ Early test builds of **Duskbrace**, a first-person survival game. This is a work
 
 ## Download
 
-Get the latest zip from [Releases](../../releases/latest), unzip it anywhere, and run `Duskbrace.exe`. Windows only, 64-bit.
+Get `Duskbrace-<version>-Setup.exe` from the [latest release](../../releases/latest) and run it. It installs without admin rights and adds Duskbrace to the Start Menu. Uninstall it from Windows **Settings > Apps**; your saves stay in `%APPDATA%\Duskbrace`. Windows 10 or 11, 64-bit.
 
 The game isn't signed yet, so Windows SmartScreen may say it "protected your PC". Click **More info**, then **Run anyway**.
 
